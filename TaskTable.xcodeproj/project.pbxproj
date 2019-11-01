@@ -13,6 +13,7 @@
 		1CE11A8B236CA5310060A0BE /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1CE11A89236CA5310060A0BE /* Main.storyboard */; };
 		1CE11A8D236CA5320060A0BE /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1CE11A8C236CA5320060A0BE /* Assets.xcassets */; };
 		1CE11A90236CA5320060A0BE /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1CE11A8E236CA5320060A0BE /* LaunchScreen.storyboard */; };
+		1CE11A98236CA7500060A0BE /* TaskTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1CE11A97236CA7500060A0BE /* TaskTableViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		1CE11A8C236CA5320060A0BE /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		1CE11A8F236CA5320060A0BE /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		1CE11A91236CA5320060A0BE /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		1CE11A97236CA7500060A0BE /* TaskTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TaskTableViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				1CE11A8C236CA5320060A0BE /* Assets.xcassets */,
 				1CE11A8E236CA5320060A0BE /* LaunchScreen.storyboard */,
 				1CE11A91236CA5320060A0BE /* Info.plist */,
+				1CE11A97236CA7500060A0BE /* TaskTableViewController.swift */,
 			);
 			path = TaskTable;
 			sourceTree = "<group>";
@@ -140,6 +143,7 @@
 			files = (
 				1CE11A88236CA5310060A0BE /* ViewController.swift in Sources */,
 				1CE11A84236CA5310060A0BE /* AppDelegate.swift in Sources */,
+				1CE11A98236CA7500060A0BE /* TaskTableViewController.swift in Sources */,
 				1CE11A86236CA5310060A0BE /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
